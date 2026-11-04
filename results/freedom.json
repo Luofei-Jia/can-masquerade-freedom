@@ -1,0 +1,222 @@
+[
+  {
+    "set": "set_02",
+    "file": "masquerade-timed-2.csv",
+    "tid": "12A",
+    "dlc": 8,
+    "n_atk": 250,
+    "n_ben": 3178,
+    "vocab": 28,
+    "in_domain": [
+      1,
+      2
+    ],
+    "freedom": 0.25,
+    "attack_payload": "0000000100000000"
+  },
+  {
+    "set": "set_02",
+    "file": "masquerade-timed-3.csv",
+    "tid": "12A",
+    "dlc": 8,
+    "n_atk": 3976,
+    "n_ben": 3,
+    "vocab": 1,
+    "in_domain": [
+      0,
+      1,
+      2,
+      3,
+      5,
+      6,
+      7
+    ],
+    "freedom": 0.875,
+    "attack_payload": "4700000041753FFF"
+  },
+  {
+    "set": "set_02",
+    "file": "masquerade-timed-4.csv",
+    "tid": "12A",
+    "dlc": 8,
+    "n_atk": 200,
+    "n_ben": 2071,
+    "vocab": 9,
+    "in_domain": [],
+    "freedom": 0.0,
+    "attack_payload": "10E0705800001091"
+  },
+  {
+    "set": "set_03",
+    "file": "masquerade-timed-2.csv",
+    "tid": "0BE",
+    "dlc": 6,
+    "n_atk": 1500,
+    "n_ben": 22778,
+    "vocab": 2327,
+    "in_domain": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "freedom": 1.0,
+    "attack_payload": "0C000003E9FD"
+  },
+  {
+    "set": "set_03",
+    "file": "masquerade-timed-3.csv",
+    "tid": "0BE",
+    "dlc": 6,
+    "n_atk": 1500,
+    "n_ben": 51750,
+    "vocab": 2975,
+    "in_domain": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "freedom": 1.0,
+    "attack_payload": "04013505ABFE"
+  },
+  {
+    "set": "set_03",
+    "file": "masquerade-timed-4.csv",
+    "tid": "0BE",
+    "dlc": 6,
+    "n_atk": 500,
+    "n_ben": 39810,
+    "vocab": 2510,
+    "in_domain": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "freedom": 1.0,
+    "attack_payload": "04013505ABFE"
+  },
+  {
+    "set": "set_04",
+    "file": "masquerade-timed-1.csv",
+    "tid": "140",
+    "dlc": 8,
+    "n_atk": 5000,
+    "n_ben": 65578,
+    "vocab": 39144,
+    "in_domain": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "freedom": 1.0,
+    "attack_payload": "0004E34400000CA1"
+  },
+  {
+    "set": "set_04",
+    "file": "masquerade-timed-2.csv",
+    "tid": "140",
+    "dlc": 8,
+    "n_atk": 5000,
+    "n_ben": 106713,
+    "vocab": 65741,
+    "in_domain": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "freedom": 1.0,
+    "attack_payload": "1E0BA005001E2020"
+  },
+  {
+    "set": "set_04",
+    "file": "masquerade-timed-3.csv",
+    "tid": "140",
+    "dlc": 8,
+    "n_atk": 50000,
+    "n_ben": 122860,
+    "vocab": 88788,
+    "in_domain": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "freedom": 1.0,
+    "attack_payload": "320B2F06002F3620"
+  },
+  {
+    "set": "set_04",
+    "file": "masquerade-timed-4.csv",
+    "tid": "140",
+    "dlc": 8,
+    "n_atk": 500,
+    "n_ben": 9971,
+    "vocab": 8306,
+    "in_domain": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      7
+    ],
+    "freedom": 0.875,
+    "attack_payload": "000CC74200000C21"
+  },
+  {
+    "set": "set_01",
+    "file": "masquerade-timed-2.csv",
+    "tid": "348",
+    "n_atk": 706,
+    "n_ben": 8252,
+    "dlc": 4,
+    "in_domain": 4,
+    "freedom": 1.0,
+    "attack_payload": "07BF07B0"
+  },
+  {
+    "set": "set_01",
+    "file": "masquerade-timed-3.csv",
+    "tid": "348",
+    "n_atk": 706,
+    "n_ben": 17532,
+    "dlc": 4,
+    "in_domain": 4,
+    "freedom": 1.0,
+    "attack_payload": "09D009D0"
+  },
+  {
+    "set": "set_01",
+    "file": "masquerade-timed-4.csv",
+    "tid": "348",
+    "n_atk": 70,
+    "n_ben": 14819,
+    "dlc": 4,
+    "in_domain": 4,
+    "freedom": 1.0,
+    "attack_payload": "09D009D0"
+  }
+]

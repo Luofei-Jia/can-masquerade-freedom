@@ -1,0 +1,56 @@
+[
+  {
+    "day": "Day_1",
+    "ids": 56,
+    "checkable": 19,
+    "frames": 20000000,
+    "frames_checkable": 13244541,
+    "pct_ids": 33.92857142857143,
+    "pct_frames": 66.222705
+  },
+  {
+    "day": "Day_2",
+    "ids": 56,
+    "checkable": 20,
+    "frames": 10110000,
+    "frames_checkable": 6768193,
+    "pct_ids": 35.714285714285715,
+    "pct_frames": 66.94552917903066
+  },
+  {
+    "day": "Day_3",
+    "ids": 56,
+    "checkable": 19,
+    "frames": 9807445,
+    "frames_checkable": 6504119,
+    "pct_ids": 33.92857142857143,
+    "pct_frames": 66.31817970939424
+  },
+  {
+    "day": "Day_4",
+    "ids": 56,
+    "checkable": 19,
+    "frames": 9670832,
+    "frames_checkable": 6377280,
+    "pct_ids": 33.92857142857143,
+    "pct_frames": 65.94344726493026
+  },
+  {
+    "day": "Day_5",
+    "ids": 56,
+    "checkable": 19,
+    "frames": 10435392,
+    "frames_checkable": 6838613,
+    "pct_ids": 33.92857142857143,
+    "pct_frames": 65.53288079642816
+  },
+  {
+    "day": "Day_6",
+    "ids": 56,
+    "checkable": 19,
+    "frames": 10276962,
+    "frames_checkable": 6745459,
+    "pct_ids": 33.92857142857143,
+    "pct_frames": 65.63670275320663
+  }
+]

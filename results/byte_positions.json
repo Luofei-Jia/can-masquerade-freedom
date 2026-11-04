@@ -1,0 +1,142 @@
+{
+  "per_pair": [
+    {
+      "set": "set_02",
+      "file": "masquerade-timed-2.csv",
+      "tid": "12A",
+      "dlc": 8,
+      "free": [
+        1,
+        2
+      ]
+    },
+    {
+      "set": "set_02",
+      "file": "masquerade-timed-4.csv",
+      "tid": "12A",
+      "dlc": 8,
+      "free": []
+    },
+    {
+      "set": "set_03",
+      "file": "masquerade-timed-2.csv",
+      "tid": "0BE",
+      "dlc": 6,
+      "free": [
+        0,
+        2
+      ]
+    },
+    {
+      "set": "set_03",
+      "file": "masquerade-timed-3.csv",
+      "tid": "0BE",
+      "dlc": 6,
+      "free": [
+        1
+      ]
+    },
+    {
+      "set": "set_03",
+      "file": "masquerade-timed-4.csv",
+      "tid": "0BE",
+      "dlc": 6,
+      "free": [
+        0
+      ]
+    },
+    {
+      "set": "set_04",
+      "file": "masquerade-timed-1.csv",
+      "tid": "140",
+      "dlc": 8,
+      "free": [
+        0,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "set": "set_04",
+      "file": "masquerade-timed-2.csv",
+      "tid": "140",
+      "dlc": 8,
+      "free": [
+        4
+      ]
+    },
+    {
+      "set": "set_04",
+      "file": "masquerade-timed-3.csv",
+      "tid": "140",
+      "dlc": 8,
+      "free": [
+        1,
+        7
+      ]
+    },
+    {
+      "set": "set_04",
+      "file": "masquerade-timed-4.csv",
+      "tid": "140",
+      "dlc": 8,
+      "free": [
+        0,
+        4,
+        5
+      ]
+    }
+  ],
+  "by_position": [
+    {
+      "byte": 0,
+      "pairs": 9,
+      "free": 4,
+      "frac": 0.4444444444444444
+    },
+    {
+      "byte": 1,
+      "pairs": 9,
+      "free": 3,
+      "frac": 0.3333333333333333
+    },
+    {
+      "byte": 2,
+      "pairs": 9,
+      "free": 2,
+      "frac": 0.2222222222222222
+    },
+    {
+      "byte": 3,
+      "pairs": 9,
+      "free": 0,
+      "frac": 0.0
+    },
+    {
+      "byte": 4,
+      "pairs": 9,
+      "free": 3,
+      "frac": 0.3333333333333333
+    },
+    {
+      "byte": 5,
+      "pairs": 9,
+      "free": 2,
+      "frac": 0.2222222222222222
+    },
+    {
+      "byte": 6,
+      "pairs": 6,
+      "free": 1,
+      "frac": 0.16666666666666666
+    },
+    {
+      "byte": 7,
+      "pairs": 6,
+      "free": 2,
+      "frac": 0.3333333333333333
+    }
+  ]
+}

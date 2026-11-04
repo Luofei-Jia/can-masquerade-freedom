@@ -1,0 +1,209 @@
+[
+  {
+    "set": "set_02",
+    "capture": "masquerade-timed-2.csv",
+    "tid": "12A",
+    "n_ben": 3178,
+    "n_atk": 250,
+    "n_free": 2,
+    "orig": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "evade": [
+      0.0,
+      1.0,
+      1.0
+    ],
+    "fpr_calibrated": [
+      null,
+      0.0,
+      0.10698552548772813
+    ]
+  },
+  {
+    "set": "set_02",
+    "capture": "masquerade-timed-4.csv",
+    "tid": "12A",
+    "n_ben": 2071,
+    "n_atk": 200,
+    "n_free": 0,
+    "orig": [
+      1.0,
+      0.0,
+      1.0
+    ],
+    "evade": [
+      1.0,
+      0.0,
+      1.0
+    ],
+    "fpr_calibrated": [
+      null,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "set": "set_03",
+    "capture": "masquerade-timed-2.csv",
+    "tid": "0BE",
+    "n_ben": 22778,
+    "n_atk": 1500,
+    "n_free": 2,
+    "orig": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "evade": [
+      0.0,
+      0.0,
+      0.9626666666666667
+    ],
+    "fpr_calibrated": [
+      null,
+      0.008165773992448853,
+      0.021072965141803495
+    ]
+  },
+  {
+    "set": "set_03",
+    "capture": "masquerade-timed-3.csv",
+    "tid": "0BE",
+    "n_ben": 51750,
+    "n_atk": 1500,
+    "n_free": 1,
+    "orig": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "evade": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "fpr_calibrated": [
+      null,
+      0.0010821256038647342,
+      0.18430917874396135
+    ]
+  },
+  {
+    "set": "set_03",
+    "capture": "masquerade-timed-4.csv",
+    "tid": "0BE",
+    "n_ben": 39810,
+    "n_atk": 500,
+    "n_free": 1,
+    "orig": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "evade": [
+      0.0,
+      0.0,
+      0.796
+    ],
+    "fpr_calibrated": [
+      null,
+      0.025470987189148454,
+      0.01873901029891987
+    ]
+  },
+  {
+    "set": "set_04",
+    "capture": "masquerade-timed-1.csv",
+    "tid": "140",
+    "n_ben": 65578,
+    "n_atk": 5000,
+    "n_free": 5,
+    "orig": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "evade": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "fpr_calibrated": [
+      null,
+      0.0009149409863063833,
+      0.0019823721369971637
+    ]
+  },
+  {
+    "set": "set_04",
+    "capture": "masquerade-timed-2.csv",
+    "tid": "140",
+    "n_ben": 106713,
+    "n_atk": 5000,
+    "n_free": 1,
+    "orig": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "evade": [
+      0.0,
+      0.0,
+      0.8018
+    ],
+    "fpr_calibrated": [
+      null,
+      0.0004685420844500253,
+      0.0
+    ]
+  },
+  {
+    "set": "set_04",
+    "capture": "masquerade-timed-3.csv",
+    "tid": "140",
+    "n_ben": 122860,
+    "n_atk": 50000,
+    "n_free": 2,
+    "orig": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "evade": [
+      0.0,
+      0.0002,
+      0.65992
+    ],
+    "fpr_calibrated": [
+      null,
+      0.0010743936187530524,
+      0.03407130066742634
+    ]
+  },
+  {
+    "set": "set_04",
+    "capture": "masquerade-timed-4.csv",
+    "tid": "140",
+    "n_ben": 9971,
+    "n_atk": 500,
+    "n_free": 3,
+    "orig": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "evade": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "fpr_calibrated": [
+      null,
+      0.00040112314480545525,
+      0.0
+    ]
+  }
+]

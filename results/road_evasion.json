@@ -1,0 +1,249 @@
+[
+  {
+    "pair": "correlated_signal_attack_1",
+    "tid": "6E0",
+    "n_atk": 2086,
+    "free": [],
+    "run_orig": 2086,
+    "run_evade": 2086,
+    "uniq_evade": 0.0,
+    "semantic_keep": 1.0,
+    "dist_orig": 4.280460778627537,
+    "dist_evade": 4.259837383334699,
+    "leverage_source": "attacker mask"
+  },
+  {
+    "pair": "correlated_signal_attack_2",
+    "tid": "6E0",
+    "n_atk": 2139,
+    "free": [],
+    "run_orig": 2139,
+    "run_evade": 2139,
+    "uniq_evade": 0.0,
+    "semantic_keep": 1.0,
+    "dist_orig": 4.280460778627537,
+    "dist_evade": 4.26005083573737,
+    "leverage_source": "attacker mask"
+  },
+  {
+    "pair": "correlated_signal_attack_3",
+    "tid": "6E0",
+    "n_atk": 1263,
+    "free": [],
+    "run_orig": 1263,
+    "run_evade": 1263,
+    "uniq_evade": 0.0,
+    "semantic_keep": 1.0,
+    "dist_orig": 4.280460778627537,
+    "dist_evade": 4.258362158000348,
+    "leverage_source": "attacker mask"
+  },
+  {
+    "pair": "max_engine_coolant_temp_attack",
+    "tid": "4E7",
+    "n_atk": 43,
+    "free": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      6,
+      7
+    ],
+    "run_orig": 43,
+    "run_evade": 2,
+    "uniq_evade": 0.20930232558139536,
+    "semantic_keep": 1.0,
+    "dist_orig": 0.6835901204219084,
+    "dist_evade": 0.6807094914429361
+  },
+  {
+    "pair": "max_speedometer_attack_1",
+    "tid": "0D0",
+    "n_atk": 2443,
+    "free": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "run_orig": 1,
+    "run_evade": 1,
+    "uniq_evade": 0.0,
+    "semantic_keep": 1.0,
+    "dist_orig": 2.515719123012708,
+    "dist_evade": 2.526314032504003,
+    "leverage_source": "attacker mask"
+  },
+  {
+    "pair": "max_speedometer_attack_2",
+    "tid": "0D0",
+    "n_atk": 3139,
+    "free": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "run_orig": 1,
+    "run_evade": 1,
+    "uniq_evade": 0.0,
+    "semantic_keep": 1.0,
+    "dist_orig": 2.87472940935071,
+    "dist_evade": 2.8329069697351046,
+    "leverage_source": "attacker mask"
+  },
+  {
+    "pair": "max_speedometer_attack_3",
+    "tid": "0D0",
+    "n_atk": 6107,
+    "free": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "run_orig": 1,
+    "run_evade": 1,
+    "uniq_evade": 0.0,
+    "semantic_keep": 1.0,
+    "dist_orig": 2.4985118374133846,
+    "dist_evade": 2.5904708150094518,
+    "leverage_source": "attacker mask"
+  },
+  {
+    "pair": "reverse_light_off_attack_1",
+    "tid": "0D0",
+    "n_atk": 672,
+    "free": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "run_orig": 1,
+    "run_evade": 1,
+    "uniq_evade": 0.0,
+    "semantic_keep": 1.0,
+    "dist_orig": 0.6273054183403195,
+    "dist_evade": 0.6720562341210301,
+    "leverage_source": "attacker mask"
+  },
+  {
+    "pair": "reverse_light_off_attack_2",
+    "tid": "0D0",
+    "n_atk": 2370,
+    "free": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      7
+    ],
+    "run_orig": 1,
+    "run_evade": 1,
+    "uniq_evade": 0.8362869198312236,
+    "semantic_keep": 1.0,
+    "dist_orig": 0.7555247815798511,
+    "dist_evade": 0.8141426251747007
+  },
+  {
+    "pair": "reverse_light_off_attack_3",
+    "tid": "0D0",
+    "n_atk": 2434,
+    "free": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "run_orig": 1,
+    "run_evade": 1,
+    "uniq_evade": 0.0,
+    "semantic_keep": 1.0,
+    "dist_orig": 0.43394500489871146,
+    "dist_evade": 0.48565988356503503,
+    "leverage_source": "attacker mask"
+  },
+  {
+    "pair": "reverse_light_on_attack_1",
+    "tid": "0D0",
+    "n_atk": 1992,
+    "free": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "run_orig": 1,
+    "run_evade": 1,
+    "uniq_evade": 0.0,
+    "semantic_keep": 1.0,
+    "dist_orig": 0.9340162835749655,
+    "dist_evade": 0.6787543091458713,
+    "leverage_source": "attacker mask"
+  },
+  {
+    "pair": "reverse_light_on_attack_2",
+    "tid": "0D0",
+    "n_atk": 3690,
+    "free": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "run_orig": 1,
+    "run_evade": 1,
+    "uniq_evade": 0.0,
+    "semantic_keep": 1.0,
+    "dist_orig": 0.9979252299269514,
+    "dist_evade": 0.7477137068515166,
+    "leverage_source": "attacker mask"
+  },
+  {
+    "pair": "reverse_light_on_attack_3",
+    "tid": "0D0",
+    "n_atk": 2350,
+    "free": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "run_orig": 1,
+    "run_evade": 1,
+    "uniq_evade": 0.0,
+    "semantic_keep": 1.0,
+    "dist_orig": 1.0812895710320825,
+    "dist_evade": 0.7994927861916044,
+    "leverage_source": "attacker mask"
+  }
+]

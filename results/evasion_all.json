@@ -1,0 +1,256 @@
+[
+  {
+    "set": "set_02",
+    "file": "masquerade-timed-2.csv",
+    "tid": "12A",
+    "n_atk": 250,
+    "n_ben": 3178,
+    "free": [
+      1,
+      2
+    ],
+    "semantic": [
+      0,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "run_orig": 250,
+    "run_evade": 1,
+    "uniq_evade": 1.0,
+    "semantic_keep": 1.0
+  },
+  {
+    "set": "set_02",
+    "file": "masquerade-timed-4.csv",
+    "tid": "12A",
+    "n_atk": 200,
+    "n_ben": 2071,
+    "free": [],
+    "semantic": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "run_orig": 200,
+    "run_evade": 200,
+    "uniq_evade": 0.005,
+    "semantic_keep": 1.0
+  },
+  {
+    "set": "set_03",
+    "file": "masquerade-timed-2.csv",
+    "tid": "0BE",
+    "n_atk": 1500,
+    "n_ben": 22778,
+    "free": [
+      0,
+      2
+    ],
+    "semantic": [
+      1,
+      3,
+      4,
+      5
+    ],
+    "run_orig": 1500,
+    "run_evade": 1,
+    "uniq_evade": 0.986,
+    "semantic_keep": 1.0
+  },
+  {
+    "set": "set_03",
+    "file": "masquerade-timed-3.csv",
+    "tid": "0BE",
+    "n_atk": 1500,
+    "n_ben": 51750,
+    "free": [
+      1
+    ],
+    "semantic": [
+      0,
+      2,
+      3,
+      4,
+      5
+    ],
+    "run_orig": 1500,
+    "run_evade": 2,
+    "uniq_evade": 0.16933333333333334,
+    "semantic_keep": 1.0
+  },
+  {
+    "set": "set_03",
+    "file": "masquerade-timed-4.csv",
+    "tid": "0BE",
+    "n_atk": 500,
+    "n_ben": 39810,
+    "free": [
+      0
+    ],
+    "semantic": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "run_orig": 500,
+    "run_evade": 2,
+    "uniq_evade": 0.45,
+    "semantic_keep": 1.0
+  },
+  {
+    "set": "set_04",
+    "file": "masquerade-timed-1.csv",
+    "tid": "140",
+    "n_atk": 5000,
+    "n_ben": 65578,
+    "free": [
+      0,
+      4,
+      5,
+      6,
+      7
+    ],
+    "semantic": [
+      1,
+      2,
+      3
+    ],
+    "run_orig": 5000,
+    "run_evade": 1,
+    "uniq_evade": 1.0,
+    "semantic_keep": 1.0
+  },
+  {
+    "set": "set_04",
+    "file": "masquerade-timed-2.csv",
+    "tid": "140",
+    "n_atk": 5000,
+    "n_ben": 106713,
+    "free": [
+      4
+    ],
+    "semantic": [
+      0,
+      1,
+      2,
+      3,
+      5,
+      6,
+      7
+    ],
+    "run_orig": 5000,
+    "run_evade": 2,
+    "uniq_evade": 0.0512,
+    "semantic_keep": 1.0
+  },
+  {
+    "set": "set_04",
+    "file": "masquerade-timed-3.csv",
+    "tid": "140",
+    "n_atk": 50000,
+    "n_ben": 122860,
+    "free": [
+      1,
+      7
+    ],
+    "semantic": [
+      0,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "run_orig": 50000,
+    "run_evade": 1,
+    "uniq_evade": 0.70098,
+    "semantic_keep": 1.0
+  },
+  {
+    "set": "set_04",
+    "file": "masquerade-timed-4.csv",
+    "tid": "140",
+    "n_atk": 500,
+    "n_ben": 9971,
+    "free": [
+      0,
+      4,
+      5
+    ],
+    "semantic": [
+      1,
+      2,
+      3,
+      6,
+      7
+    ],
+    "run_orig": 500,
+    "run_evade": 1,
+    "uniq_evade": 1.0,
+    "semantic_keep": 1.0
+  },
+  {
+    "set": "set_01",
+    "file": "masquerade-timed-2.csv",
+    "tid": "348",
+    "n_atk": 706,
+    "n_ben": 8252,
+    "free": [],
+    "semantic": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "run_orig": 706,
+    "run_evade": 706,
+    "uniq_evade": 0.00141643059490085,
+    "semantic_keep": 1.0
+  },
+  {
+    "set": "set_01",
+    "file": "masquerade-timed-3.csv",
+    "tid": "348",
+    "n_atk": 706,
+    "n_ben": 17532,
+    "free": [],
+    "semantic": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "run_orig": 706,
+    "run_evade": 706,
+    "uniq_evade": 0.00141643059490085,
+    "semantic_keep": 1.0
+  },
+  {
+    "set": "set_01",
+    "file": "masquerade-timed-4.csv",
+    "tid": "348",
+    "n_atk": 70,
+    "n_ben": 14819,
+    "free": [],
+    "semantic": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "run_orig": 70,
+    "run_evade": 70,
+    "uniq_evade": 0.014285714285714285,
+    "semantic_keep": 1.0
+  }
+]

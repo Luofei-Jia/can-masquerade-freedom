@@ -1,0 +1,82 @@
+[
+  {
+    "vehicle": "set_01",
+    "source": "can-train-and-test",
+    "ids": 51,
+    "checkable": 12,
+    "frames": 3652302,
+    "pct": 23.529411764705884
+  },
+  {
+    "vehicle": "set_02",
+    "source": "can-train-and-test",
+    "ids": 62,
+    "checkable": 15,
+    "frames": 2299714,
+    "pct": 24.193548387096776
+  },
+  {
+    "vehicle": "set_03",
+    "source": "can-train-and-test",
+    "ids": 98,
+    "checkable": 28,
+    "frames": 3669783,
+    "pct": 28.571428571428573
+  },
+  {
+    "vehicle": "set_04",
+    "source": "can-train-and-test",
+    "ids": 54,
+    "checkable": 35,
+    "frames": 1341131,
+    "pct": 64.81481481481481
+  },
+  {
+    "vehicle": "Day_1",
+    "source": "CAN-MIRGU",
+    "ids": 56,
+    "checkable": 19,
+    "frames": 20000000,
+    "pct": 33.92857142857143
+  },
+  {
+    "vehicle": "Day_2",
+    "source": "CAN-MIRGU",
+    "ids": 56,
+    "checkable": 20,
+    "frames": 10110000,
+    "pct": 35.714285714285715
+  },
+  {
+    "vehicle": "Day_3",
+    "source": "CAN-MIRGU",
+    "ids": 56,
+    "checkable": 19,
+    "frames": 9807445,
+    "pct": 33.92857142857143
+  },
+  {
+    "vehicle": "Day_4",
+    "source": "CAN-MIRGU",
+    "ids": 56,
+    "checkable": 19,
+    "frames": 9670832,
+    "pct": 33.92857142857143
+  },
+  {
+    "vehicle": "Day_5",
+    "source": "CAN-MIRGU",
+    "ids": 56,
+    "checkable": 19,
+    "frames": 10435392,
+    "pct": 33.92857142857143
+  },
+  {
+    "vehicle": "Day_6",
+    "source": "CAN-MIRGU",
+    "ids": 56,
+    "checkable": 19,
+    "frames": 10276962,
+    "pct": 33.92857142857143
+  }
+]

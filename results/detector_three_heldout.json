@@ -1,0 +1,200 @@
+[
+  {
+    "set": "set_02",
+    "capture": "masquerade-timed-2.csv",
+    "tid": "12A",
+    "n_free": 2,
+    "n_atk": 250,
+    "orig": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "uniform": [
+      0.0,
+      1.0,
+      1.0
+    ],
+    "adaptive": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "set": "set_02",
+    "capture": "masquerade-timed-4.csv",
+    "tid": "12A",
+    "n_free": 0,
+    "n_atk": 200,
+    "orig": [
+      1.0,
+      0.0,
+      1.0
+    ],
+    "uniform": [
+      1.0,
+      0.0,
+      1.0
+    ],
+    "adaptive": [
+      1.0,
+      0.0,
+      1.0
+    ]
+  },
+  {
+    "set": "set_03",
+    "capture": "masquerade-timed-2.csv",
+    "tid": "0BE",
+    "n_free": 2,
+    "n_atk": 1500,
+    "orig": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "uniform": [
+      0.0,
+      0.0,
+      0.9686666666666667
+    ],
+    "adaptive": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "set": "set_03",
+    "capture": "masquerade-timed-3.csv",
+    "tid": "0BE",
+    "n_free": 1,
+    "n_atk": 1500,
+    "orig": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "uniform": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "adaptive": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "set": "set_03",
+    "capture": "masquerade-timed-4.csv",
+    "tid": "0BE",
+    "n_free": 1,
+    "n_atk": 500,
+    "orig": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "uniform": [
+      0.0,
+      0.0,
+      0.786
+    ],
+    "adaptive": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "set": "set_04",
+    "capture": "masquerade-timed-1.csv",
+    "tid": "140",
+    "n_free": 5,
+    "n_atk": 5000,
+    "orig": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "uniform": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "adaptive": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "set": "set_04",
+    "capture": "masquerade-timed-2.csv",
+    "tid": "140",
+    "n_free": 1,
+    "n_atk": 5000,
+    "orig": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "uniform": [
+      0.0,
+      0.0,
+      0.8024
+    ],
+    "adaptive": [
+      1.0,
+      0.0,
+      0.0134
+    ]
+  },
+  {
+    "set": "set_04",
+    "capture": "masquerade-timed-3.csv",
+    "tid": "140",
+    "n_free": 2,
+    "n_atk": 50000,
+    "orig": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "uniform": [
+      0.0,
+      0.00022,
+      0.66348
+    ],
+    "adaptive": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "set": "set_04",
+    "capture": "masquerade-timed-4.csv",
+    "tid": "140",
+    "n_free": 3,
+    "n_atk": 500,
+    "orig": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "uniform": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "adaptive": [
+      0.0,
+      0.0,
+      0.018
+    ]
+  }
+]

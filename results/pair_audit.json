@@ -1,0 +1,132 @@
+[
+  {
+    "pair": "correlated_signal_attack_1",
+    "tid": "6E0",
+    "n_ids": 105,
+    "len_diff": 0,
+    "time_diff": 0,
+    "pay_diff": 0,
+    "max_dt_ms": 0.0,
+    "ids_only": 0
+  },
+  {
+    "pair": "correlated_signal_attack_2",
+    "tid": "6E0",
+    "n_ids": 105,
+    "len_diff": 0,
+    "time_diff": 0,
+    "pay_diff": 0,
+    "max_dt_ms": 0.0,
+    "ids_only": 0
+  },
+  {
+    "pair": "correlated_signal_attack_3",
+    "tid": "6E0",
+    "n_ids": 104,
+    "len_diff": 0,
+    "time_diff": 0,
+    "pay_diff": 0,
+    "max_dt_ms": 0.00011920928955078125,
+    "ids_only": 0
+  },
+  {
+    "pair": "max_engine_coolant_temp_attack",
+    "tid": "4E7",
+    "n_ids": 105,
+    "len_diff": 0,
+    "time_diff": 0,
+    "pay_diff": 0,
+    "max_dt_ms": 0.0,
+    "ids_only": 0
+  },
+  {
+    "pair": "max_speedometer_attack_1",
+    "tid": "0D0",
+    "n_ids": 105,
+    "len_diff": 0,
+    "time_diff": 0,
+    "pay_diff": 0,
+    "max_dt_ms": 0.0,
+    "ids_only": 0
+  },
+  {
+    "pair": "max_speedometer_attack_2",
+    "tid": "0D0",
+    "n_ids": 105,
+    "len_diff": 0,
+    "time_diff": 0,
+    "pay_diff": 0,
+    "max_dt_ms": 0.0,
+    "ids_only": 0
+  },
+  {
+    "pair": "max_speedometer_attack_3",
+    "tid": "0D0",
+    "n_ids": 105,
+    "len_diff": 0,
+    "time_diff": 0,
+    "pay_diff": 0,
+    "max_dt_ms": 0.0,
+    "ids_only": 0
+  },
+  {
+    "pair": "reverse_light_off_attack_1",
+    "tid": "0D0",
+    "n_ids": 105,
+    "len_diff": 0,
+    "time_diff": 0,
+    "pay_diff": 0,
+    "max_dt_ms": 0.0,
+    "ids_only": 0
+  },
+  {
+    "pair": "reverse_light_off_attack_2",
+    "tid": "0D0",
+    "n_ids": 105,
+    "len_diff": 0,
+    "time_diff": 0,
+    "pay_diff": 0,
+    "max_dt_ms": 0.0,
+    "ids_only": 0
+  },
+  {
+    "pair": "reverse_light_off_attack_3",
+    "tid": "0D0",
+    "n_ids": 105,
+    "len_diff": 0,
+    "time_diff": 0,
+    "pay_diff": 0,
+    "max_dt_ms": 0.0,
+    "ids_only": 0
+  },
+  {
+    "pair": "reverse_light_on_attack_1",
+    "tid": "0D0",
+    "n_ids": 105,
+    "len_diff": 0,
+    "time_diff": 0,
+    "pay_diff": 0,
+    "max_dt_ms": 0.0,
+    "ids_only": 0
+  },
+  {
+    "pair": "reverse_light_on_attack_2",
+    "tid": "0D0",
+    "n_ids": 105,
+    "len_diff": 0,
+    "time_diff": 0,
+    "pay_diff": 0,
+    "max_dt_ms": 0.0,
+    "ids_only": 0
+  },
+  {
+    "pair": "reverse_light_on_attack_3",
+    "tid": "0D0",
+    "n_ids": 105,
+    "len_diff": 0,
+    "time_diff": 0,
+    "pay_diff": 0,
+    "max_dt_ms": 0.0,
+    "ids_only": 0
+  }
+]

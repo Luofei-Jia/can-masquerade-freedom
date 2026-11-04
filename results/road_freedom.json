@@ -1,0 +1,106 @@
+[
+  {
+    "pair": "correlated_signal_attack_1",
+    "tid": "6E0",
+    "dlc": 8,
+    "n_atk": 2086,
+    "in_domain": 5,
+    "freedom": 0.625
+  },
+  {
+    "pair": "correlated_signal_attack_2",
+    "tid": "6E0",
+    "dlc": 8,
+    "n_atk": 2139,
+    "in_domain": 5,
+    "freedom": 0.625
+  },
+  {
+    "pair": "correlated_signal_attack_3",
+    "tid": "6E0",
+    "dlc": 8,
+    "n_atk": 1263,
+    "in_domain": 5,
+    "freedom": 0.625
+  },
+  {
+    "pair": "max_engine_coolant_temp_attack",
+    "tid": "4E7",
+    "dlc": 8,
+    "n_atk": 43,
+    "in_domain": 7,
+    "freedom": 0.875
+  },
+  {
+    "pair": "max_speedometer_attack_1",
+    "tid": "0D0",
+    "dlc": 8,
+    "n_atk": 2443,
+    "in_domain": 7,
+    "freedom": 0.875
+  },
+  {
+    "pair": "max_speedometer_attack_2",
+    "tid": "0D0",
+    "dlc": 8,
+    "n_atk": 3139,
+    "in_domain": 7,
+    "freedom": 0.875
+  },
+  {
+    "pair": "max_speedometer_attack_3",
+    "tid": "0D0",
+    "dlc": 8,
+    "n_atk": 6107,
+    "in_domain": 7,
+    "freedom": 0.875
+  },
+  {
+    "pair": "reverse_light_off_attack_1",
+    "tid": "0D0",
+    "dlc": 8,
+    "n_atk": 672,
+    "in_domain": 8,
+    "freedom": 1.0
+  },
+  {
+    "pair": "reverse_light_off_attack_2",
+    "tid": "0D0",
+    "dlc": 8,
+    "n_atk": 2370,
+    "in_domain": 8,
+    "freedom": 1.0
+  },
+  {
+    "pair": "reverse_light_off_attack_3",
+    "tid": "0D0",
+    "dlc": 8,
+    "n_atk": 2434,
+    "in_domain": 8,
+    "freedom": 1.0
+  },
+  {
+    "pair": "reverse_light_on_attack_1",
+    "tid": "0D0",
+    "dlc": 8,
+    "n_atk": 1992,
+    "in_domain": 8,
+    "freedom": 1.0
+  },
+  {
+    "pair": "reverse_light_on_attack_2",
+    "tid": "0D0",
+    "dlc": 8,
+    "n_atk": 3690,
+    "in_domain": 8,
+    "freedom": 1.0
+  },
+  {
+    "pair": "reverse_light_on_attack_3",
+    "tid": "0D0",
+    "dlc": 8,
+    "n_atk": 2350,
+    "in_domain": 8,
+    "freedom": 1.0
+  }
+]

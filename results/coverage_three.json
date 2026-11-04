@@ -1,0 +1,68 @@
+[
+  {
+    "day": "Day_1",
+    "ids": 56,
+    "frames": 20000000,
+    "strict_ids": 19,
+    "strict_pct_ids": 33.92857142857143,
+    "strict_pct_frames": 66.222705,
+    "cond_ids": 38,
+    "cond_pct_ids": 67.85714285714286,
+    "cond_pct_frames": 91.922645
+  },
+  {
+    "day": "Day_2",
+    "ids": 56,
+    "frames": 10110000,
+    "strict_ids": 20,
+    "strict_pct_ids": 35.714285714285715,
+    "strict_pct_frames": 66.94552917903066,
+    "cond_ids": 32,
+    "cond_pct_ids": 57.142857142857146,
+    "cond_pct_frames": 87.34636003956479
+  },
+  {
+    "day": "Day_3",
+    "ids": 56,
+    "frames": 9807445,
+    "strict_ids": 19,
+    "strict_pct_ids": 33.92857142857143,
+    "strict_pct_frames": 66.31817970939424,
+    "cond_ids": 34,
+    "cond_pct_ids": 60.714285714285715,
+    "cond_pct_frames": 88.39465324557007
+  },
+  {
+    "day": "Day_4",
+    "ids": 56,
+    "frames": 9670832,
+    "strict_ids": 19,
+    "strict_pct_ids": 33.92857142857143,
+    "strict_pct_frames": 65.94344726493026,
+    "cond_ids": 43,
+    "cond_pct_ids": 76.78571428571429,
+    "cond_pct_frames": 90.49093190740983
+  },
+  {
+    "day": "Day_5",
+    "ids": 56,
+    "frames": 10435392,
+    "strict_ids": 19,
+    "strict_pct_ids": 33.92857142857143,
+    "strict_pct_frames": 65.53288079642816,
+    "cond_ids": 43,
+    "cond_pct_ids": 76.78571428571429,
+    "cond_pct_frames": 92.84174470877568
+  },
+  {
+    "day": "Day_6",
+    "ids": 56,
+    "frames": 10276962,
+    "strict_ids": 19,
+    "strict_pct_ids": 33.92857142857143,
+    "strict_pct_frames": 65.63670275320663,
+    "cond_ids": 41,
+    "cond_pct_ids": 73.21428571428571,
+    "cond_pct_frames": 89.98879240771738
+  }
+]
